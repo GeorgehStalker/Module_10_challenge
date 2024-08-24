@@ -6,7 +6,7 @@ import datetime as dt
 
 
 
-# The Purpose of this Class is to separate out any Database logic
+
 class SQLHelper():
     #################################################
     # Database Setup
